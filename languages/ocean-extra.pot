@@ -1,0 +1,2566 @@
+# Copyright (C) 2016 
+# This file is distributed under the same license as the  package.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/style\n"
+"POT-Creation-Date: 2017-04-24 20:07+0200\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: OceanWP\n"
+"Language-Team: OceanWP\n"
+"X-Generator: Poedit 1.8.12\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _esc_attr__;esc_attr_x;esc_attr_e;esc_html__;esc_html_e;"
+"esc_html_x;__;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c;"
+"_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Textdomain-Support: yes\n"
+"Language: en_US\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/metabox/butterbean/inc/controls/class-control-image.php:66
+msgid "Add image"
+msgstr ""
+
+#: includes/metabox/butterbean/inc/controls/class-control-image.php:67
+msgid "Set as image"
+msgstr ""
+
+#: includes/metabox/butterbean/inc/controls/class-control-image.php:68
+msgid "Choose image"
+msgstr ""
+
+#: includes/metabox/butterbean/inc/controls/class-control-image.php:69
+#: includes/metabox/gallery-metabox/gallery-metabox.php:135
+msgid "Change image"
+msgstr ""
+
+#: includes/metabox/butterbean/inc/controls/class-control-image.php:70
+#: includes/metabox/gallery-metabox/gallery-metabox.php:136
+msgid "Remove image"
+msgstr ""
+
+#: includes/metabox/butterbean/inc/controls/class-control-image.php:71
+msgid "No image selected"
+msgstr ""
+
+#: includes/metabox/butterbean/inc/controls/class-control-media.php:54
+msgid "Browse"
+msgstr ""
+
+#: includes/metabox/gallery-metabox/gallery-metabox.php:67
+msgid "Image Gallery"
+msgstr ""
+
+#: includes/metabox/gallery-metabox/gallery-metabox.php:118
+msgid "Add Image(s)"
+msgstr ""
+
+#: includes/metabox/gallery-metabox/gallery-metabox.php:150
+msgid "Enable lightbox for this gallery?"
+msgstr ""
+
+#: includes/metabox/metabox.php:98
+msgid "OceanWP Settings"
+msgstr ""
+
+#: includes/metabox/metabox.php:110
+msgid "Main"
+msgstr ""
+
+#: includes/metabox/metabox.php:120
+msgid "Content Layout"
+msgstr ""
+
+#: includes/metabox/metabox.php:121
+msgid "Select your custom layout."
+msgstr ""
+
+#: includes/metabox/metabox.php:123 includes/metabox/metabox.php:212
+#: includes/metabox/metabox.php:235 includes/metabox/metabox.php:393
+#: includes/metabox/metabox.php:422 includes/metabox/metabox.php:444
+#: includes/metabox/metabox.php:468 includes/metabox/metabox.php:563
+#: includes/metabox/metabox.php:586 includes/metabox/metabox.php:762
+#: includes/metabox/metabox.php:773 includes/metabox/metabox.php:784
+#: includes/widgets/custom-menu.php:264 includes/widgets/tags.php:341
+msgid "Default"
+msgstr ""
+
+#: includes/metabox/metabox.php:124
+msgid "Right Sidebar"
+msgstr ""
+
+#: includes/metabox/metabox.php:125
+msgid "Left Sidebar"
+msgstr ""
+
+#: includes/metabox/metabox.php:126
+msgid "Full Width"
+msgstr ""
+
+#: includes/metabox/metabox.php:127
+msgid "100% Full Width"
+msgstr ""
+
+#: includes/metabox/metabox.php:144 includes/panel/scripts.php:288
+msgid "Sidebar"
+msgstr ""
+
+#: includes/metabox/metabox.php:145
+msgid "Select your custom sidebar."
+msgstr ""
+
+#: includes/metabox/metabox.php:162
+msgid "Margins"
+msgstr ""
+
+#: includes/metabox/metabox.php:163
+msgid "Enable or disable the margin top and bottom."
+msgstr ""
+
+#: includes/metabox/metabox.php:165 includes/metabox/metabox.php:213
+#: includes/metabox/metabox.php:236 includes/metabox/metabox.php:284
+#: includes/metabox/metabox.php:285 includes/metabox/metabox.php:564
+#: includes/metabox/metabox.php:587
+msgid "Enable"
+msgstr ""
+
+#: includes/metabox/metabox.php:166 includes/metabox/metabox.php:214
+#: includes/metabox/metabox.php:237 includes/metabox/metabox.php:286
+#: includes/metabox/metabox.php:565 includes/metabox/metabox.php:588
+msgid "Disable"
+msgstr ""
+
+#: includes/metabox/metabox.php:184
+msgid "Shortcode"
+msgstr ""
+
+#: includes/metabox/metabox.php:185
+msgid "Add your shortcode to be displayed before the page title."
+msgstr ""
+
+#: includes/metabox/metabox.php:199 includes/panel/scripts.php:208
+msgid "Header"
+msgstr ""
+
+#: includes/metabox/metabox.php:209
+msgid "Display Top Bar"
+msgstr ""
+
+#: includes/metabox/metabox.php:210
+msgid "Enable or disable the top bar."
+msgstr ""
+
+#: includes/metabox/metabox.php:232
+msgid "Display Header"
+msgstr ""
+
+#: includes/metabox/metabox.php:233
+msgid "Enable or disable the header."
+msgstr ""
+
+#: includes/metabox/metabox.php:255
+msgid "Main Navigation Menu"
+msgstr ""
+
+#: includes/metabox/metabox.php:256
+msgid "Choose which menu displays on this page."
+msgstr ""
+
+#: includes/metabox/metabox.php:271 includes/widgets/about-me.php:211
+#: includes/widgets/contact-info.php:255 includes/widgets/contact-info.php:273
+#: includes/widgets/contact-info.php:292 includes/widgets/contact-info.php:311
+#: includes/widgets/contact-info.php:330 includes/widgets/contact-info.php:349
+#: includes/widgets/contact-info.php:373 includes/widgets/custom-links.php:117
+#: includes/widgets/custom-menu.php:205 includes/widgets/facebook.php:164
+#: includes/widgets/flickr.php:105 includes/widgets/instagram.php:145
+#: includes/widgets/mailchimp.php:159 includes/widgets/recent-posts.php:205
+#: includes/widgets/recent-posts.php:273 includes/widgets/social.php:264
+#: includes/widgets/tags.php:245 includes/widgets/video.php:114
+msgid "Title"
+msgstr ""
+
+#: includes/metabox/metabox.php:281
+msgid "Display Title"
+msgstr ""
+
+#: includes/metabox/metabox.php:282
+msgid "Enable or disable the page title."
+msgstr ""
+
+#: includes/metabox/metabox.php:303
+msgid "Custom Title"
+msgstr ""
+
+#: includes/metabox/metabox.php:304
+msgid "Alter the main title display."
+msgstr ""
+
+#: includes/metabox/metabox.php:320
+msgid "Subheading"
+msgstr ""
+
+#: includes/metabox/metabox.php:321
+msgid "Enter your page subheading. Shortcodes & HTML is allowed."
+msgstr ""
+
+#: includes/metabox/metabox.php:337
+msgid "Title Style"
+msgstr ""
+
+#: includes/metabox/metabox.php:338
+msgid "Select a custom title style."
+msgstr ""
+
+#: includes/metabox/metabox.php:355
+msgid "Title: Background Color"
+msgstr ""
+
+#: includes/metabox/metabox.php:356
+msgid "Select a hex color code, ex: #333"
+msgstr ""
+
+#: includes/metabox/metabox.php:373
+msgid "Title: Background Image"
+msgstr ""
+
+#: includes/metabox/metabox.php:374
+msgid "Select a custom image for your main title."
+msgstr ""
+
+#: includes/metabox/metabox.php:390
+msgid "Position"
+msgstr ""
+
+#: includes/metabox/metabox.php:391
+msgid "Select your background image position."
+msgstr ""
+
+#: includes/metabox/metabox.php:394
+msgid "Top Left"
+msgstr ""
+
+#: includes/metabox/metabox.php:395
+msgid "Top Center"
+msgstr ""
+
+#: includes/metabox/metabox.php:396
+msgid "Top Right"
+msgstr ""
+
+#: includes/metabox/metabox.php:397
+msgid "Center Left"
+msgstr ""
+
+#: includes/metabox/metabox.php:398
+msgid "Center Center"
+msgstr ""
+
+#: includes/metabox/metabox.php:399
+msgid "Center Right"
+msgstr ""
+
+#: includes/metabox/metabox.php:400
+msgid "Bottom Left"
+msgstr ""
+
+#: includes/metabox/metabox.php:401
+msgid "Bottom Center"
+msgstr ""
+
+#: includes/metabox/metabox.php:402
+msgid "Bottom Right"
+msgstr ""
+
+#: includes/metabox/metabox.php:419
+msgid "Attachment"
+msgstr ""
+
+#: includes/metabox/metabox.php:420
+msgid "Select your background image attachment."
+msgstr ""
+
+#: includes/metabox/metabox.php:423
+msgid "Scroll"
+msgstr ""
+
+#: includes/metabox/metabox.php:424
+msgid "Fixed"
+msgstr ""
+
+#: includes/metabox/metabox.php:441 includes/metabox/metabox.php:446
+msgid "Repeat"
+msgstr ""
+
+#: includes/metabox/metabox.php:442
+msgid "Select your background image repeat."
+msgstr ""
+
+#: includes/metabox/metabox.php:445
+msgid "No-repeat"
+msgstr ""
+
+#: includes/metabox/metabox.php:447
+msgid "Repeat-x"
+msgstr ""
+
+#: includes/metabox/metabox.php:448
+msgid "Repeat-y"
+msgstr ""
+
+#: includes/metabox/metabox.php:465
+msgid "Size"
+msgstr ""
+
+#: includes/metabox/metabox.php:466
+msgid "Select your background image size."
+msgstr ""
+
+#: includes/metabox/metabox.php:469
+msgid "Auto"
+msgstr ""
+
+#: includes/metabox/metabox.php:470
+msgid "Cover"
+msgstr ""
+
+#: includes/metabox/metabox.php:471
+msgid "Contain"
+msgstr ""
+
+#: includes/metabox/metabox.php:488
+msgid "Title: Background Height"
+msgstr ""
+
+#: includes/metabox/metabox.php:489
+msgid "Select your custom height for your title background. Default is 400px."
+msgstr ""
+
+#: includes/metabox/metabox.php:511
+msgid "Title: Background Overlay Opacity"
+msgstr ""
+
+#: includes/metabox/metabox.php:512
+msgid "Enter a number between 0.1 to 1. Default is 0.5."
+msgstr ""
+
+#: includes/metabox/metabox.php:534
+msgid "Title: Background Overlay Color"
+msgstr ""
+
+#: includes/metabox/metabox.php:535
+msgid "Select a color. Hex code or rgba value, ex: #333"
+msgstr ""
+
+#: includes/metabox/metabox.php:550
+msgid "Footer"
+msgstr ""
+
+#: includes/metabox/metabox.php:560
+msgid "Display Footer Widgets Area"
+msgstr ""
+
+#: includes/metabox/metabox.php:561
+msgid "Enable or disable the footer widgets area."
+msgstr ""
+
+#: includes/metabox/metabox.php:583
+msgid "Display Copyright Area"
+msgstr ""
+
+#: includes/metabox/metabox.php:584
+msgid "Enable or disable the copyright area."
+msgstr ""
+
+#: includes/metabox/metabox.php:620 includes/metabox/metabox.php:738
+#: includes/widgets/recent-posts.php:218
+msgid "Post"
+msgstr ""
+
+#: includes/metabox/metabox.php:630
+msgid "oEmbed URL"
+msgstr ""
+
+#: includes/metabox/metabox.php:631
+msgid ""
+"Enter a URL that is compatible with WP's built-in oEmbed feature. This setting "
+"is used for your video and audio post formats."
+msgstr ""
+
+#: includes/metabox/metabox.php:631 includes/metabox/metabox.php:648
+#: includes/widgets/video.php:122
+msgid "Learn More"
+msgstr ""
+
+#: includes/metabox/metabox.php:647
+msgid "Self Hosted"
+msgstr ""
+
+#: includes/metabox/metabox.php:648
+msgid "Insert your self hosted video or audio url here."
+msgstr ""
+
+#: includes/metabox/metabox.php:664
+msgid "Embed Code"
+msgstr ""
+
+#: includes/metabox/metabox.php:665
+msgid ""
+"Insert your embed/iframe code. This setting is used for your video and audio "
+"post formats."
+msgstr ""
+
+#: includes/metabox/metabox.php:679
+msgid "Link"
+msgstr ""
+
+#: includes/metabox/metabox.php:680
+msgid "Enter your external url. This setting is used for your link post formats."
+msgstr ""
+
+#: includes/metabox/metabox.php:696 includes/widgets/social.php:289
+msgid "Link Target"
+msgstr ""
+
+#: includes/metabox/metabox.php:697
+msgid ""
+"Choose your target for the url. This setting is used for your link post "
+"formats."
+msgstr ""
+
+#: includes/metabox/metabox.php:699 includes/widgets/about-me.php:246
+#: includes/widgets/custom-links.php:125 includes/widgets/instagram.php:315
+#: includes/widgets/social.php:293
+msgid "Self"
+msgstr ""
+
+#: includes/metabox/metabox.php:700 includes/widgets/about-me.php:245
+#: includes/widgets/custom-links.php:106 includes/widgets/custom-links.php:124
+#: includes/widgets/instagram.php:314 includes/widgets/social.php:292
+msgid "Blank"
+msgstr ""
+
+#: includes/metabox/metabox.php:717
+msgid "Quote"
+msgstr ""
+
+#: includes/metabox/metabox.php:718
+msgid "Enter your quote. This setting is used for your quote post formats."
+msgstr ""
+
+#: includes/metabox/metabox.php:735
+msgid "Quote Link"
+msgstr ""
+
+#: includes/metabox/metabox.php:736
+msgid "Choose your quote link. This setting is used for your quote post formats."
+msgstr ""
+
+#: includes/metabox/metabox.php:739 includes/widgets/instagram.php:241
+#: includes/widgets/social.php:281 includes/widgets/tags.php:345
+msgid "None"
+msgstr ""
+
+#: includes/metabox/metabox.php:774
+msgid "Centered"
+msgstr ""
+
+#: includes/metabox/metabox.php:775
+msgid "Centered Minimal"
+msgstr ""
+
+#: includes/metabox/metabox.php:776
+msgid "Background Image"
+msgstr ""
+
+#: includes/metabox/metabox.php:777
+msgid "Solid Color and White Text"
+msgstr ""
+
+#: includes/panel/about.php:36 includes/panel/about.php:37
+msgid "About OceanWP"
+msgstr ""
+
+#: includes/panel/about.php:64
+msgid "OceanWP"
+msgstr ""
+
+#: includes/panel/about.php:67
+msgid "Join us on Twitter"
+msgstr ""
+
+#: includes/panel/about.php:68
+msgid "Join us on Facebook"
+msgstr ""
+
+#: includes/panel/about.php:69
+msgid "Find us on GitHub"
+msgstr ""
+
+#: includes/panel/about.php:78
+msgid "Thank you for using OceanWP"
+msgstr ""
+
+#: includes/panel/about.php:80
+msgid ""
+"OceanWP is the perfect theme for your project. Lightweight and highly "
+"extendible, it will enable you to create almost any type of site with a "
+"beautiful & professional design. There are several options to personalise your "
+"website, multiple widget regions, a responsive design and much more. "
+"Developers will love his extensible codebase making it a joy to customise and "
+"extend."
+msgstr ""
+
+#: includes/panel/about.php:82
+msgid "The perfect theme to use with your favorite page builder!"
+msgstr ""
+
+#: includes/panel/about.php:88
+msgid "Extend his functionalities with our extensions"
+msgstr ""
+
+#: includes/panel/about.php:90
+msgid ""
+"Check our free and premium extensions that extend OceanWP&rsquo;s "
+"functionality and make it more powerful."
+msgstr ""
+
+#: includes/panel/about.php:94
+msgid "Ocean Extra"
+msgstr ""
+
+#: includes/panel/about.php:94 includes/panel/about.php:102
+#: includes/panel/about.php:118 includes/panel/about.php:122
+#: includes/panel/about.php:240 includes/panel/about.php:244
+#: includes/panel/about.php:246 includes/panel/about.php:252
+#: includes/panel/about.php:254
+msgid "free"
+msgstr ""
+
+#: includes/panel/about.php:95
+msgid ""
+"Add extra features like metaboxes, import/export and a panel to activate the "
+"extensions."
+msgstr ""
+
+#: includes/panel/about.php:98 includes/panel/extensions.php:52
+msgid "Elementor Widgets"
+msgstr ""
+
+#: includes/panel/about.php:99
+msgid "Add some awesome new widgets to the popular free page builder Elementor."
+msgstr ""
+
+#: includes/panel/about.php:102 includes/panel/extensions.php:115
+msgid "Custom Sidebar"
+msgstr ""
+
+#: includes/panel/about.php:103
+msgid ""
+"Generates an unlimited number of sidebars and place them on any page or post."
+msgstr ""
+
+#: includes/panel/about.php:106 includes/panel/extensions.php:73
+msgid "Sticky Header"
+msgstr ""
+
+#: includes/panel/about.php:107
+msgid ""
+"A simple extension to attach the header at the top of your screen with an "
+"animation."
+msgstr ""
+
+#: includes/panel/about.php:110 includes/panel/extensions.php:66
+msgid "Footer Callout"
+msgstr ""
+
+#: includes/panel/about.php:111 includes/panel/extensions.php:67
+msgid ""
+"Add some relevant/important information about your company or product in your "
+"footer."
+msgstr ""
+
+#: includes/panel/about.php:114 includes/panel/extensions.php:59
+msgid "Side Panel"
+msgstr ""
+
+#: includes/panel/about.php:115
+msgid ""
+"Display a panel on the right or left with your favorite widgets by clicking on "
+"an icon in the menu."
+msgstr ""
+
+#: includes/panel/about.php:118 includes/panel/extensions.php:122
+msgid "Demo Import"
+msgstr ""
+
+#: includes/panel/about.php:119
+msgid ""
+"Import the OceanWP demo content, widgets and customizer settings with one "
+"click."
+msgstr ""
+
+#: includes/panel/about.php:122 includes/panel/extensions.php:101
+msgid "Social Sharing"
+msgstr ""
+
+#: includes/panel/about.php:123
+msgid ""
+"A simple extension to add your prefered social sharing buttons to your single "
+"posts."
+msgstr ""
+
+#: includes/panel/about.php:128
+msgid "View all OceanWP extensions"
+msgstr ""
+
+#: includes/panel/about.php:135
+msgid "Create your WordPress site quickly with Themecloud"
+msgstr ""
+
+#: includes/panel/about.php:137
+msgid "What is Themecloud?"
+msgstr ""
+
+#: includes/panel/about.php:137
+msgid ""
+"It&rsquo;s a better way to build WordPress websites, instant setup, no coding "
+"required. They are removed all of the technical hurdles standing between you "
+"and your ideal site. Don’t worry about installations, configurations, "
+"migrations and maintenance. Focus on creating stellar content – and watch your "
+"business skyrocket! Not convinced yet?"
+msgstr ""
+
+#: includes/panel/about.php:137
+msgid "Look at this great review from WPKube"
+msgstr ""
+
+#: includes/panel/about.php:139
+msgid "From $9.90/mo"
+msgstr ""
+
+#: includes/panel/about.php:139
+msgid "( 15-day free trial, no credit card required )"
+msgstr ""
+
+#: includes/panel/about.php:142
+msgid "Learn more about Themecloud"
+msgstr ""
+
+#: includes/panel/about.php:151
+msgid "Getting started with OceanWP"
+msgstr ""
+
+#: includes/panel/about.php:153
+msgid ""
+"Take a look in the options of the Customizer and see yourself how easy and "
+"quick to customize the theme as you wish."
+msgstr ""
+
+#: includes/panel/about.php:157
+msgid "Upload your logo"
+msgstr ""
+
+#: includes/panel/about.php:158
+msgid "Add your own logo and retina logo used for the mobile design."
+msgstr ""
+
+#: includes/panel/about.php:159 includes/panel/about.php:164
+#: includes/panel/about.php:169 includes/panel/about.php:174
+#: includes/panel/about.php:179 includes/panel/about.php:184
+#: includes/panel/about.php:189 includes/panel/about.php:194
+msgid "Go to the option"
+msgstr ""
+
+#: includes/panel/about.php:162
+msgid "Add your favicon"
+msgstr ""
+
+#: includes/panel/about.php:163
+msgid "The favicon is used as a browser and app icon for your website."
+msgstr ""
+
+#: includes/panel/about.php:167
+msgid "Choose your primary color"
+msgstr ""
+
+#: includes/panel/about.php:168
+msgid "Replace the default primary and hover color by your own colors."
+msgstr ""
+
+#: includes/panel/about.php:172
+msgid "Change the links color"
+msgstr ""
+
+#: includes/panel/about.php:173
+msgid "Choose the color and hover color of your links for the entire site."
+msgstr ""
+
+#: includes/panel/about.php:177
+msgid "Choose your typography"
+msgstr ""
+
+#: includes/panel/about.php:178
+msgid "Choose your own typography for any parts of your website."
+msgstr ""
+
+#: includes/panel/about.php:182
+msgid "Top bar options"
+msgstr ""
+
+#: includes/panel/about.php:183
+msgid "Enable/Disable the top bar, add your own paddings and colors."
+msgstr ""
+
+#: includes/panel/about.php:187
+msgid "Header options"
+msgstr ""
+
+#: includes/panel/about.php:188
+msgid "Choose the style, the height and the colors for your site header."
+msgstr ""
+
+#: includes/panel/about.php:192
+msgid "Footer bottom options"
+msgstr ""
+
+#: includes/panel/about.php:193
+msgid "Add your copyright, paddings and colors for the footer bottom."
+msgstr ""
+
+#: includes/panel/about.php:209
+msgid "Customize Your Site"
+msgstr ""
+
+#: includes/panel/about.php:218
+msgid "Contribute to OceanWP"
+msgstr ""
+
+#: includes/panel/about.php:220
+msgid ""
+"You&rsquo;ve found a bug? Want to contribute a patch, create a new feature or "
+"extension?"
+msgstr ""
+
+#: includes/panel/about.php:221
+msgid "GitHub is the place to go!"
+msgstr ""
+
+#: includes/panel/about.php:227
+msgid "Get support"
+msgstr ""
+
+#: includes/panel/about.php:229
+msgid ""
+"You can find a wide range of information on how to use and customise OceanWP "
+"in our"
+msgstr ""
+
+#: includes/panel/about.php:229
+msgid "documentation"
+msgstr ""
+
+#: includes/panel/about.php:229
+msgid "If you need help?"
+msgstr ""
+
+#: includes/panel/about.php:229
+msgid "open a support ticket"
+msgstr ""
+
+#: includes/panel/about.php:235
+msgid "Recommended plugins"
+msgstr ""
+
+#: includes/panel/about.php:237
+msgid ""
+"Below you will find links to plugins I personally like and recommend. None of "
+"these plugins are required for your theme to work, they simply add additional "
+"functionality."
+msgstr ""
+
+#: includes/panel/about.php:241
+msgid ""
+"Manage multiple contact forms and customize the form and the mail contents "
+"with markups."
+msgstr ""
+
+#: includes/panel/about.php:243
+msgid ""
+"Gravity Forms is the easiest tool to create advanced forms for your WordPress "
+"powered website."
+msgstr ""
+
+#: includes/panel/about.php:245
+msgid ""
+"The most advanced frontend drag & drop page builder. Create high-end, pixel "
+"perfect websites."
+msgstr ""
+
+#: includes/panel/about.php:247
+msgid ""
+"A drag and drop WordPress Page Builder. Create with ease beautiful & "
+"professional pages."
+msgstr ""
+
+#: includes/panel/about.php:249
+msgid ""
+"Visual Composer is the ultimate plugin for building every WordPress site "
+"without coding."
+msgstr ""
+
+#: includes/panel/about.php:251
+msgid ""
+"It&rsquo;s not just a slider, build modern & mobile friendly presentations for "
+"your website in no time."
+msgstr ""
+
+#: includes/panel/about.php:253
+msgid ""
+"A powerful and flexible plugin that makes it a breeze for users to sign-up and "
+"become members."
+msgstr ""
+
+#: includes/panel/about.php:255
+msgid ""
+"WooCommerce is a free eCommerce plugin that allows you to sell anything, "
+"beautifully."
+msgstr ""
+
+#: includes/panel/about.php:259
+msgid "More Recommended Plugins"
+msgstr ""
+
+#: includes/panel/extensions.php:34 includes/panel/extensions.php:35
+#: includes/panel/extensions.php:146
+msgid "Extensions"
+msgstr ""
+
+#: includes/panel/extensions.php:53
+msgid "Add some new widgets to the popular free page builder Elementor."
+msgstr ""
+
+#: includes/panel/extensions.php:60
+msgid "Add a responsive side panel with your preferred widgets inside."
+msgstr ""
+
+#: includes/panel/extensions.php:74
+msgid ""
+"Attach the header with or without the top bar at the top of your screen with "
+"an animation."
+msgstr ""
+
+#: includes/panel/extensions.php:80
+msgid "Ocean Hooks"
+msgstr ""
+
+#: includes/panel/extensions.php:81
+msgid ""
+"Add your custom content throughout various areas of OceanWP without using "
+"child theme."
+msgstr ""
+
+#: includes/panel/extensions.php:87
+msgid "Sticky Footer"
+msgstr ""
+
+#: includes/panel/extensions.php:88
+msgid "A simple extension to attach the footer at the bottom of your screen."
+msgstr ""
+
+#: includes/panel/extensions.php:94
+msgid "OceanWP Extra"
+msgstr ""
+
+#: includes/panel/extensions.php:95
+msgid ""
+"Add extra features like meta boxes, custom CSS and a panel to activate the "
+"premium extensions."
+msgstr ""
+
+#: includes/panel/extensions.php:102
+msgid "Add social share buttons to your single posts with this free extension."
+msgstr ""
+
+#: includes/panel/extensions.php:108
+msgid "Product Sharing"
+msgstr ""
+
+#: includes/panel/extensions.php:109
+msgid ""
+"Add social share buttons to your single product page with this free extension."
+msgstr ""
+
+#: includes/panel/extensions.php:116
+msgid ""
+"Generates an unlimited number of sidebars and place them on any page you wish."
+msgstr ""
+
+#: includes/panel/extensions.php:123
+msgid ""
+"Import the Ocean demo content, widgets and customizer settings with one click."
+msgstr ""
+
+#: includes/panel/extensions.php:129
+msgid "Posts Slider"
+msgstr ""
+
+#: includes/panel/extensions.php:130
+msgid "Display your latest posts in a beautiful slider with different options."
+msgstr ""
+
+#: includes/panel/extensions.php:136
+msgid "Modal Window"
+msgstr ""
+
+#: includes/panel/extensions.php:137
+msgid ""
+"Insert any content in a modals and place the opening button anywhere to open "
+"it."
+msgstr ""
+
+#: includes/panel/extensions.php:149
+msgid "Core Extensions Bundle"
+msgstr ""
+
+#: includes/panel/extensions.php:149
+msgid ""
+"Check out our extensions bundle which includes all extensions at a significant "
+"discount"
+msgstr ""
+
+#: includes/panel/extensions.php:150
+msgid "View our Extensions Bundle"
+msgstr ""
+
+#: includes/panel/extensions.php:155
+msgid "Premium"
+msgstr ""
+
+#: includes/panel/extensions.php:156
+msgid "Free"
+msgstr ""
+
+#: includes/panel/extensions.php:178 includes/panel/extensions.php:209
+msgid "Get this Add on"
+msgstr ""
+
+#: includes/panel/extensions.php:179 includes/panel/extensions.php:210
+msgid "More Details"
+msgstr ""
+
+#: includes/panel/import-export.php:41 includes/panel/import-export.php:42
+msgid "Import/Export"
+msgstr ""
+
+#: includes/panel/import-export.php:179
+msgid "You must upload a <b>.json</b> file generated by the export button."
+msgstr ""
+
+#: includes/panel/import-export.php:218
+msgid "Import file could not be found. Please try again."
+msgstr ""
+
+#: includes/panel/import-export.php:295
+msgid "OceanWP Importer & Exporter"
+msgstr ""
+
+#: includes/panel/import-export.php:305 includes/panel/import-export.php:317
+msgid "Import Settings"
+msgstr ""
+
+#: includes/panel/import-export.php:308
+msgid "Please select a <b>.json</b> file generated by the export button."
+msgstr ""
+
+#: includes/panel/import-export.php:328 includes/panel/import-export.php:336
+msgid "Export Settings"
+msgstr ""
+
+#: includes/panel/import-export.php:331
+msgid ""
+"This will export all theme_mods that means if other plugins are adding "
+"settings in the customizer it will export those as well."
+msgstr ""
+
+#: includes/panel/import-export.php:333
+msgid "Click below to generate a <b>.json</b> file for all settings."
+msgstr ""
+
+#: includes/panel/links.php:38
+msgid "Documentation"
+msgstr ""
+
+#: includes/panel/links.php:39
+msgid "Support"
+msgstr ""
+
+#: includes/panel/scripts.php:55
+msgid "Custom Select"
+msgstr ""
+
+#: includes/panel/scripts.php:56
+msgid ""
+"The customSelect.js script uses the native select box and add overlays a "
+"stylable <span> element in order to acheive the desired look."
+msgstr ""
+
+#: includes/panel/scripts.php:61
+msgid "Drop Down Search"
+msgstr ""
+
+#: includes/panel/scripts.php:62
+msgid ""
+"The dropDownSearch.js script is for the drop down search style in your "
+"navigation."
+msgstr ""
+
+#: includes/panel/scripts.php:66
+msgid "Header Replace Search"
+msgstr ""
+
+#: includes/panel/scripts.php:67
+msgid ""
+"The headerReplaceSearch.js script is for the header replace search style in "
+"your navigation."
+msgstr ""
+
+#: includes/panel/scripts.php:71
+msgid "Overlay Search"
+msgstr ""
+
+#: includes/panel/scripts.php:72
+msgid ""
+"The overlaySearch.js script is for the overlay search style in your navigation."
+msgstr ""
+
+#: includes/panel/scripts.php:76
+msgid "FitVids"
+msgstr ""
+
+#: includes/panel/scripts.php:77
+msgid ""
+"The fitVids.js script is to achieve fluid width videos in your responsive web "
+"design, your videos looks good on all devices."
+msgstr ""
+
+#: includes/panel/scripts.php:81
+msgid "Fixed Footer"
+msgstr ""
+
+#: includes/panel/scripts.php:82
+msgid ""
+"The fixedFooter.js script adds a height to your content to keep your footer at "
+"the bottom of your page, the Fixed Footer option need to be activated in the "
+"customizer&rsquo;s Footer Widgets section."
+msgstr ""
+
+#: includes/panel/scripts.php:86
+msgid "Full Screen Menu"
+msgstr ""
+
+#: includes/panel/scripts.php:87
+msgid ""
+"The fullScreenMenu.js script is to open your menu in overlay for the full "
+"screen header style, you can disable this function if you do not use this "
+"header style."
+msgstr ""
+
+#: includes/panel/scripts.php:91
+msgid "Header Search Form"
+msgstr ""
+
+#: includes/panel/scripts.php:92
+msgid ""
+"The headerSearchForm.js script is to add a class to the search form to make "
+"the label disappear when text is inserted, used on some header style like "
+"medium or full screen."
+msgstr ""
+
+#: includes/panel/scripts.php:96
+msgid "Infinite Scroll"
+msgstr ""
+
+#: includes/panel/scripts.php:97
+msgid ""
+"The infiniteScroll.js script create an infinite scrolling effect, used for the "
+"blog archives page if Infinite Scroll is selected as pagination style."
+msgstr ""
+
+#: includes/panel/scripts.php:101
+msgid "Isotope"
+msgstr ""
+
+#: includes/panel/scripts.php:102
+msgid ""
+"The isotope.js script is to filter & sort layouts, used for the masonry grid "
+"style of your blog and will be used in some extensions."
+msgstr ""
+
+#: includes/panel/scripts.php:106
+msgid "Lightbox"
+msgstr ""
+
+#: includes/panel/scripts.php:107
+msgid ""
+"The lightbox.js script enables you to overlay your images on the current page, "
+"used for the gallerie, single product and content images."
+msgstr ""
+
+#: includes/panel/scripts.php:111
+msgid "Match Height"
+msgstr ""
+
+#: includes/panel/scripts.php:112
+msgid ""
+"The matchHeight.js is a responsive equal heights script makes the height of "
+"all selected elements exactly equal, used for the grid blog style."
+msgstr ""
+
+#: includes/panel/scripts.php:116
+msgid "Mega Menu"
+msgstr ""
+
+#: includes/panel/scripts.php:117
+msgid ""
+"The megaMenu.js script is to create the mega menus, so if you don&rsquo;t use "
+"mega menus at all on your website, you can disable this script."
+msgstr ""
+
+#: includes/panel/scripts.php:121
+msgid "Nav No Click"
+msgstr ""
+
+#: includes/panel/scripts.php:122
+msgid ""
+"The navNoClick.js script is to prevent clicking on your links, used for the "
+"\"Disable link\" field of your menu items."
+msgstr ""
+
+#: includes/panel/scripts.php:126
+msgid "Scroll Effect"
+msgstr ""
+
+#: includes/panel/scripts.php:127
+msgid ""
+"The scrollEffect.js script create an animation to your anchor links, mainly "
+"used for a one page site but also for some links like the comment link on your "
+"single posts."
+msgstr ""
+
+#: includes/panel/scripts.php:131
+msgid "Scroll Top"
+msgstr ""
+
+#: includes/panel/scripts.php:132
+msgid ""
+"The scrollTop.js script is to displays the scroll up button and brings you "
+"back to the top of your page when you click on it."
+msgstr ""
+
+#: includes/panel/scripts.php:136
+msgid "Sidr"
+msgstr ""
+
+#: includes/panel/scripts.php:137
+msgid ""
+"The sidr.js script is for easily creating responsive side menus, used for the "
+"mobile menu."
+msgstr ""
+
+#: includes/panel/scripts.php:141
+msgid "Slick"
+msgstr ""
+
+#: includes/panel/scripts.php:142
+msgid ""
+"The slick.js script is used for all the carousel of your site, gallerie "
+"images, WooCommerce single product images and thumbnails."
+msgstr ""
+
+#: includes/panel/scripts.php:146
+msgid "SmoothScroll"
+msgstr ""
+
+#: includes/panel/scripts.php:147
+msgid "The smoothScroll.js script adds a smooth scrolling to the browser."
+msgstr ""
+
+#: includes/panel/scripts.php:151
+msgid "Superfish"
+msgstr ""
+
+#: includes/panel/scripts.php:152
+msgid ""
+"The superfish.js script adds usability enhancements to existing multi-level "
+"drop-down menus."
+msgstr ""
+
+#: includes/panel/scripts.php:156
+msgid "WooCommerce Grid/List Buttons"
+msgstr ""
+
+#: includes/panel/scripts.php:157
+msgid ""
+"The wooGridList.js script is to switch between grid and list view on your "
+"WooCommerce catalog products."
+msgstr ""
+
+#: includes/panel/scripts.php:162
+msgid "WooCommerce Menu Cart"
+msgstr ""
+
+#: includes/panel/scripts.php:163
+msgid ""
+"The wooMenuCart.js script is to display and hide your WooCommerce cart drop "
+"down in the navigation."
+msgstr ""
+
+#: includes/panel/scripts.php:168
+msgid "WooCommerce Categories Widget"
+msgstr ""
+
+#: includes/panel/scripts.php:169
+msgid ""
+"The wooCategoriesWidget.js script adds a button to show your sub products "
+"categories when you click on it for the WooCommerce categories widget."
+msgstr ""
+
+#: includes/panel/scripts.php:174
+msgid "WooCommerce Quantity Buttons"
+msgstr ""
+
+#: includes/panel/scripts.php:175
+msgid ""
+"The wooQuantityButtons.js script is to add a up and down button for the "
+"quantity input number on your WooCommerce single products and cart pages."
+msgstr ""
+
+#: includes/panel/scripts.php:180
+msgid "WooCommerce Reviews Scroll"
+msgstr ""
+
+#: includes/panel/scripts.php:181
+msgid ""
+"The wooReviewsScroll.js script is to show and scroll down to your review tab "
+"to your WooCommerce single products when you click on the review link."
+msgstr ""
+
+#: includes/panel/scripts.php:186
+msgid "WooCommerce Variable Image"
+msgstr ""
+
+#: includes/panel/scripts.php:187
+msgid ""
+"The wooVariableImage.js script is to display your variable image on your "
+"single products for your WooCommerce variable products."
+msgstr ""
+
+#: includes/panel/scripts.php:193
+msgid "Font Awesome Icons"
+msgstr ""
+
+#: includes/panel/scripts.php:194
+msgid "The fontAwesome.css style is all the css for the font awesome icons."
+msgstr ""
+
+#: includes/panel/scripts.php:198
+msgid "Simple Line Icons"
+msgstr ""
+
+#: includes/panel/scripts.php:199
+msgid "The simpleLineIcons.css style is all the css for the simple line icons."
+msgstr ""
+
+#: includes/panel/scripts.php:203
+msgid "Top Bar"
+msgstr ""
+
+#: includes/panel/scripts.php:204
+msgid "The topBar.css style is all the css for the top bar."
+msgstr ""
+
+#: includes/panel/scripts.php:209
+msgid "The header.css style is all the css for the header."
+msgstr ""
+
+#: includes/panel/scripts.php:213
+msgid "Transparent Header"
+msgstr ""
+
+#: includes/panel/scripts.php:214
+msgid ""
+"The transparentHeader.css style is all the css for the transparent header "
+"style."
+msgstr ""
+
+#: includes/panel/scripts.php:218
+msgid "Top Header"
+msgstr ""
+
+#: includes/panel/scripts.php:219
+msgid "The topHeader.css style is all the css for the top header style."
+msgstr ""
+
+#: includes/panel/scripts.php:223
+msgid "Full Screen Header"
+msgstr ""
+
+#: includes/panel/scripts.php:224
+msgid ""
+"The fullScreenHeader.css style is all the css for the full screen header style."
+msgstr ""
+
+#: includes/panel/scripts.php:228
+msgid "Center Header"
+msgstr ""
+
+#: includes/panel/scripts.php:229
+msgid "The centerHeader.css style is all the css for the center header style."
+msgstr ""
+
+#: includes/panel/scripts.php:233
+msgid "Medium Header"
+msgstr ""
+
+#: includes/panel/scripts.php:234
+msgid "The mediumHeader.css style is all the css for the medium header style."
+msgstr ""
+
+#: includes/panel/scripts.php:238
+msgid "Custom Header"
+msgstr ""
+
+#: includes/panel/scripts.php:239
+msgid "The customHeader.css style is all the css for the custom header style."
+msgstr ""
+
+#: includes/panel/scripts.php:243
+msgid "Navigation"
+msgstr ""
+
+#: includes/panel/scripts.php:244
+msgid ""
+"The navigation.css style is all the css for the navigation of the principal "
+"menu."
+msgstr ""
+
+#: includes/panel/scripts.php:248
+msgid "Social Icons Menu"
+msgstr ""
+
+#: includes/panel/scripts.php:249
+msgid ""
+"The socialMenu.css style is all the css for the social icons in the navigation "
+"of the header."
+msgstr ""
+
+#: includes/panel/scripts.php:253
+msgid "Page Header"
+msgstr ""
+
+#: includes/panel/scripts.php:254
+msgid "The pageHeader.css style is all the css for the page header (title)."
+msgstr ""
+
+#: includes/panel/scripts.php:258
+msgid "Blog"
+msgstr ""
+
+#: includes/panel/scripts.php:259
+msgid "The blog.css style is all the css for the blog and post formats."
+msgstr ""
+
+#: includes/panel/scripts.php:263
+msgid "Blog Large Style"
+msgstr ""
+
+#: includes/panel/scripts.php:264
+msgid "The blogLarge.css style is all the css for the blog large style."
+msgstr ""
+
+#: includes/panel/scripts.php:268
+msgid "Blog Grid Style"
+msgstr ""
+
+#: includes/panel/scripts.php:269
+msgid "The blogGrid.css style is all the css for the blog grid style."
+msgstr ""
+
+#: includes/panel/scripts.php:273
+msgid "Single Post Next/Prev Pagination"
+msgstr ""
+
+#: includes/panel/scripts.php:274
+msgid ""
+"The singlePostPrevNext.css style is all the css for the next/previous "
+"pagination on single post."
+msgstr ""
+
+#: includes/panel/scripts.php:278
+msgid "Single Post Author Box"
+msgstr ""
+
+#: includes/panel/scripts.php:279
+msgid ""
+"The singlePostAuthorBio.css style is all the css for the author box on single "
+"post."
+msgstr ""
+
+#: includes/panel/scripts.php:283
+msgid "Single Post Related Posts"
+msgstr ""
+
+#: includes/panel/scripts.php:284
+msgid ""
+"The singlePostRelatedPosts.css style is all the css for the related posts on "
+"single post."
+msgstr ""
+
+#: includes/panel/scripts.php:289
+msgid "The sidebar.css style is all the css for the sidebar."
+msgstr ""
+
+#: includes/panel/scripts.php:293
+msgid "Comment"
+msgstr ""
+
+#: includes/panel/scripts.php:294
+msgid "The comment.css style is all the css for the comments."
+msgstr ""
+
+#: includes/panel/scripts.php:298
+msgid "Pagination"
+msgstr ""
+
+#: includes/panel/scripts.php:299
+msgid "The pagination.css style is all the css for the pagination."
+msgstr ""
+
+#: includes/panel/scripts.php:303
+msgid "Footer Widgets"
+msgstr ""
+
+#: includes/panel/scripts.php:304
+msgid "The footerWidgets.css style is all the css for the footer widgets area."
+msgstr ""
+
+#: includes/panel/scripts.php:308
+msgid "Footer Bottom"
+msgstr ""
+
+#: includes/panel/scripts.php:309
+msgid "The footerBottom.css style is all the css for the footer bottom area."
+msgstr ""
+
+#: includes/panel/scripts.php:313
+msgid "Scroll Top Button"
+msgstr ""
+
+#: includes/panel/scripts.php:314
+msgid "The scrollTop.css style is all the css for the scroll top button."
+msgstr ""
+
+#: includes/panel/scripts.php:318
+msgid "404 Page"
+msgstr ""
+
+#: includes/panel/scripts.php:319
+msgid "The errorPage.css style is all the css for the 404 error page."
+msgstr ""
+
+#: includes/panel/scripts.php:323
+msgid "Responsive"
+msgstr ""
+
+#: includes/panel/scripts.php:324
+msgid "The responsive.css style is all the css for the responsive view."
+msgstr ""
+
+#: includes/panel/scripts.php:342 includes/panel/scripts.php:343
+msgid "Scripts & Styles"
+msgstr ""
+
+#: includes/panel/scripts.php:436
+msgid "Scripts & Styles Panel"
+msgstr ""
+
+#: includes/panel/scripts.php:439
+msgid ""
+"Disable scripts and styles that you do not need to improve the loading speed "
+"of your website."
+msgstr ""
+
+#: includes/panel/scripts.php:453
+msgid "All"
+msgstr ""
+
+#: includes/panel/scripts.php:454
+msgid "JS"
+msgstr ""
+
+#: includes/panel/scripts.php:455
+msgid "CSS"
+msgstr ""
+
+#: includes/panel/scripts.php:498 includes/panel/theme-panel.php:293
+msgid "Enable or Disable"
+msgstr ""
+
+#: includes/panel/theme-panel.php:52
+msgid "General Panel"
+msgstr ""
+
+#: includes/panel/theme-panel.php:55
+msgid "Typography Panel"
+msgstr ""
+
+#: includes/panel/theme-panel.php:58
+msgid "Top Bar Panel"
+msgstr ""
+
+#: includes/panel/theme-panel.php:61
+msgid "Header Panel"
+msgstr ""
+
+#: includes/panel/theme-panel.php:64
+msgid "Blog Panel"
+msgstr ""
+
+#: includes/panel/theme-panel.php:67
+msgid "Sidebar Panel"
+msgstr ""
+
+#: includes/panel/theme-panel.php:70
+msgid "Footer Widgets Panel"
+msgstr ""
+
+#: includes/panel/theme-panel.php:73
+msgid "Footer Bottom Panel"
+msgstr ""
+
+#: includes/panel/theme-panel.php:76
+msgid "Custom CSS/JS Panel"
+msgstr ""
+
+#: includes/panel/theme-panel.php:83
+msgid "WooCommerce Panel"
+msgstr ""
+
+#: includes/panel/theme-panel.php:99 includes/panel/theme-panel.php:211
+msgid "Theme Panel"
+msgstr ""
+
+#: includes/panel/theme-panel.php:117 includes/panel/theme-panel.php:118
+msgid "General"
+msgstr ""
+
+#: includes/panel/theme-panel.php:244
+msgid "Features"
+msgstr ""
+
+#: includes/panel/theme-panel.php:246
+msgid "Customize"
+msgstr ""
+
+#: includes/panel/theme-panel.php:249
+msgid "Licenses"
+msgstr ""
+
+#: includes/panel/theme-panel.php:257
+msgid ""
+"Disable the Customizer panels that you do not have or need anymore to load it "
+"quickly. Your settings are saved, so do not worry."
+msgstr ""
+
+#: includes/panel/theme-panel.php:328
+msgid "Save Changes"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:112
+msgid "Search"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:179
+msgid "Login"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:180
+msgid "Log Out"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:230
+msgid "Welcome back"
+msgstr ""
+
+#: includes/widgets/about-me.php:59
+msgid "&raquo; About Me"
+msgstr ""
+
+#: includes/widgets/about-me.php:62
+msgid "Adds a about me widget."
+msgstr ""
+
+#: includes/widgets/about-me.php:201
+msgid "About Me"
+msgstr ""
+
+#: includes/widgets/about-me.php:203
+msgid "John Doe"
+msgstr ""
+
+#: includes/widgets/about-me.php:216
+msgid "Image URL"
+msgstr ""
+
+#: includes/widgets/about-me.php:218
+msgid "Upload Image"
+msgstr ""
+
+#: includes/widgets/about-me.php:222
+msgid "Name:"
+msgstr ""
+
+#: includes/widgets/about-me.php:227 includes/widgets/instagram.php:287
+msgid "Description:"
+msgstr ""
+
+#: includes/widgets/about-me.php:232
+msgid "Social Style:"
+msgstr ""
+
+#: includes/widgets/about-me.php:235
+msgid "Color"
+msgstr ""
+
+#: includes/widgets/about-me.php:236 includes/widgets/facebook.php:188
+#: includes/widgets/social.php:254 includes/widgets/social.php:271
+msgid "Light"
+msgstr ""
+
+#: includes/widgets/about-me.php:237 includes/widgets/facebook.php:189
+#: includes/widgets/social.php:272
+msgid "Dark"
+msgstr ""
+
+#: includes/widgets/about-me.php:242
+msgid "Social Link Target:"
+msgstr ""
+
+#: includes/widgets/about-me.php:253 includes/widgets/social.php:318
+msgid "Social Links"
+msgstr ""
+
+#: includes/widgets/contact-info.php:24
+msgid "&raquo; Contact Info"
+msgstr ""
+
+#: includes/widgets/contact-info.php:27
+msgid "Adds support for contact info."
+msgstr ""
+
+#: includes/widgets/contact-info.php:164
+msgid "Skype"
+msgstr ""
+
+#: includes/widgets/contact-info.php:251
+msgid "Skype Call Us"
+msgstr ""
+
+#: includes/widgets/contact-info.php:260 includes/widgets/contact-info.php:397
+#: includes/widgets/mailchimp.php:165
+msgid "Text"
+msgstr ""
+
+#: includes/widgets/contact-info.php:265
+msgid "Address:"
+msgstr ""
+
+#: includes/widgets/contact-info.php:268 includes/widgets/contact-info.php:287
+#: includes/widgets/contact-info.php:306 includes/widgets/contact-info.php:325
+#: includes/widgets/contact-info.php:344 includes/widgets/contact-info.php:368
+msgid "Icon Class"
+msgstr ""
+
+#: includes/widgets/contact-info.php:278 includes/widgets/contact-info.php:297
+#: includes/widgets/contact-info.php:316 includes/widgets/contact-info.php:335
+msgid "Content"
+msgstr ""
+
+#: includes/widgets/contact-info.php:284
+msgid "Phone:"
+msgstr ""
+
+#: includes/widgets/contact-info.php:303
+msgid "Mobile:"
+msgstr ""
+
+#: includes/widgets/contact-info.php:322
+msgid "Fax:"
+msgstr ""
+
+#: includes/widgets/contact-info.php:341
+msgid "Email:"
+msgstr ""
+
+#: includes/widgets/contact-info.php:354
+msgid "URL"
+msgstr ""
+
+#: includes/widgets/contact-info.php:359 includes/widgets/contact-info.php:383
+msgid "URL Text"
+msgstr ""
+
+#: includes/widgets/contact-info.php:365
+msgid "Website:"
+msgstr ""
+
+#: includes/widgets/contact-info.php:378
+msgid "URL (with HTTP)"
+msgstr ""
+
+#: includes/widgets/contact-info.php:389
+msgid "Skype:"
+msgstr ""
+
+#: includes/widgets/contact-info.php:392
+msgid "Username"
+msgstr ""
+
+#: includes/widgets/custom-header-logo.php:24
+msgid "&raquo; Custom Header Logo"
+msgstr ""
+
+#: includes/widgets/custom-header-logo.php:27
+msgid "Display the logo for the Custom Header style."
+msgstr ""
+
+#: includes/widgets/custom-header-logo.php:101
+msgid ""
+"This widget is to display with your page builder the logo for the Custom "
+"Header style."
+msgstr ""
+
+#: includes/widgets/custom-header-logo.php:105
+#: includes/widgets/custom-header-nav.php:108
+#: includes/widgets/custom-menu.php:222 includes/widgets/instagram.php:292
+msgid "Position:"
+msgstr ""
+
+#: includes/widgets/custom-header-logo.php:108
+#: includes/widgets/custom-header-nav.php:110
+#: includes/widgets/custom-menu.php:224 includes/widgets/instagram.php:131
+#: includes/widgets/instagram.php:302
+msgid "Left"
+msgstr ""
+
+#: includes/widgets/custom-header-logo.php:109
+#: includes/widgets/custom-header-nav.php:111
+#: includes/widgets/custom-menu.php:225 includes/widgets/instagram.php:303
+msgid "Right"
+msgstr ""
+
+#: includes/widgets/custom-header-logo.php:110
+#: includes/widgets/custom-header-nav.php:112
+#: includes/widgets/custom-menu.php:226 includes/widgets/instagram.php:304
+msgid "Center"
+msgstr ""
+
+#: includes/widgets/custom-header-nav.php:24
+msgid "&raquo; Custom Header Nav"
+msgstr ""
+
+#: includes/widgets/custom-header-nav.php:27
+msgid "Display the main menu for the Custom Header style."
+msgstr ""
+
+#: includes/widgets/custom-header-nav.php:104
+msgid ""
+"This widget is to display with your page builder the menu for the Custom "
+"Header style."
+msgstr ""
+
+#: includes/widgets/custom-links.php:24
+msgid "&raquo; Custom Links"
+msgstr ""
+
+#: includes/widgets/custom-links.php:27
+msgid "Displays custom links."
+msgstr ""
+
+#: includes/widgets/custom-links.php:122
+msgid "Link Target:"
+msgstr ""
+
+#: includes/widgets/custom-links.php:130
+msgid "Number of Custom Links:"
+msgstr ""
+
+#: includes/widgets/custom-links.php:132
+msgid "1"
+msgstr ""
+
+#: includes/widgets/custom-links.php:133
+msgid "2"
+msgstr ""
+
+#: includes/widgets/custom-links.php:134
+msgid "3"
+msgstr ""
+
+#: includes/widgets/custom-links.php:135
+msgid "4"
+msgstr ""
+
+#: includes/widgets/custom-links.php:136
+msgid "5"
+msgstr ""
+
+#: includes/widgets/custom-links.php:137
+msgid "6"
+msgstr ""
+
+#: includes/widgets/custom-links.php:138
+msgid "7"
+msgstr ""
+
+#: includes/widgets/custom-links.php:139
+msgid "8"
+msgstr ""
+
+#: includes/widgets/custom-links.php:140
+msgid "9"
+msgstr ""
+
+#: includes/widgets/custom-links.php:141
+msgid "10"
+msgstr ""
+
+#: includes/widgets/custom-links.php:142
+msgid "11"
+msgstr ""
+
+#: includes/widgets/custom-links.php:143
+msgid "12"
+msgstr ""
+
+#: includes/widgets/custom-links.php:144
+msgid "13"
+msgstr ""
+
+#: includes/widgets/custom-links.php:145
+msgid "14"
+msgstr ""
+
+#: includes/widgets/custom-links.php:146
+msgid "15"
+msgstr ""
+
+#: includes/widgets/custom-menu.php:24
+msgid "&raquo; Custom Menu"
+msgstr ""
+
+#: includes/widgets/custom-menu.php:27
+msgid "Displays custom menu."
+msgstr ""
+
+#: includes/widgets/custom-menu.php:201
+#, php-format
+msgid "No menus have been created yet. <a href=\"%s\">Create some</a>."
+msgstr ""
+
+#: includes/widgets/custom-menu.php:210
+msgid "Select Menu:"
+msgstr ""
+
+#: includes/widgets/custom-menu.php:212
+msgid "&mdash; Select &mdash;"
+msgstr ""
+
+#: includes/widgets/custom-menu.php:231
+msgid "Menu Padding:"
+msgstr ""
+
+#: includes/widgets/custom-menu.php:233 includes/widgets/tags.php:290
+msgid "top left bottom right, eg: 15px 8px 15px 25px"
+msgstr ""
+
+#: includes/widgets/custom-menu.php:237
+msgid "Menu Link Color:"
+msgstr ""
+
+#: includes/widgets/custom-menu.php:242
+msgid "Menu Link Hover Color:"
+msgstr ""
+
+#: includes/widgets/custom-menu.php:247 includes/widgets/tags.php:324
+msgid "Font Size (px):"
+msgstr ""
+
+#: includes/widgets/custom-menu.php:252 includes/widgets/tags.php:329
+msgid "Line Height (px):"
+msgstr ""
+
+#: includes/widgets/custom-menu.php:257 includes/widgets/tags.php:334
+msgid "Letter Spacing (px):"
+msgstr ""
+
+#: includes/widgets/custom-menu.php:262 includes/widgets/tags.php:339
+msgid "Text Transform:"
+msgstr ""
+
+#: includes/widgets/custom-menu.php:265 includes/widgets/tags.php:342
+msgid "Capitalize"
+msgstr ""
+
+#: includes/widgets/custom-menu.php:266 includes/widgets/tags.php:343
+msgid "Lowercase"
+msgstr ""
+
+#: includes/widgets/custom-menu.php:267 includes/widgets/tags.php:344
+msgid "Uppercase"
+msgstr ""
+
+#: includes/widgets/facebook.php:35
+msgid "&raquo; Facebook Like Box"
+msgstr ""
+
+#: includes/widgets/facebook.php:38
+msgid "Display a Facebook Like Box to connect visitors to your Facebook Page."
+msgstr ""
+
+#: includes/widgets/facebook.php:62
+#, php-format
+msgid ""
+"It looks like your Facebook URL is incorrectly configured. Please check it in "
+"your <a href=\"%s\">widget settings</a>."
+msgstr ""
+
+#: includes/widgets/facebook.php:169
+msgid "Facebook Page URL"
+msgstr ""
+
+#: includes/widgets/facebook.php:172
+msgid "The Like Box only works with "
+msgstr ""
+
+#: includes/widgets/facebook.php:172
+msgid "Facebook Pages"
+msgstr ""
+
+#: includes/widgets/facebook.php:176
+msgid "Width"
+msgstr ""
+
+#: includes/widgets/facebook.php:181
+msgid "Height"
+msgstr ""
+
+#: includes/widgets/facebook.php:186
+msgid "Color Scheme"
+msgstr ""
+
+#: includes/widgets/facebook.php:196
+msgid "Show Faces"
+msgstr ""
+
+#: includes/widgets/facebook.php:198
+msgid "Show profile photos in the plugin."
+msgstr ""
+
+#: includes/widgets/facebook.php:205
+msgid "Show Stream"
+msgstr ""
+
+#: includes/widgets/facebook.php:207
+msgid "Show the profile stream for the public profile."
+msgstr ""
+
+#: includes/widgets/facebook.php:214
+msgid "Show Border"
+msgstr ""
+
+#: includes/widgets/facebook.php:216
+msgid "Show a border around the plugin."
+msgstr ""
+
+#: includes/widgets/facebook.php:223
+msgid "Show Wall"
+msgstr ""
+
+#: includes/widgets/facebook.php:225
+msgid "Show the wall for a Places page rather than friend activity."
+msgstr ""
+
+#: includes/widgets/flickr.php:24
+msgid "&raquo; Flickr"
+msgstr ""
+
+#: includes/widgets/flickr.php:27
+msgid "Pulls in images from your flickr account."
+msgstr ""
+
+#: includes/widgets/flickr.php:59
+msgid "View stream on flickr"
+msgstr ""
+
+#: includes/widgets/flickr.php:110
+msgid "Flickr ID"
+msgstr ""
+
+#: includes/widgets/flickr.php:112
+msgid "Enter the url of your Flickr page on this site: idgettr.com."
+msgstr ""
+
+#: includes/widgets/flickr.php:116
+msgid "Number:"
+msgstr ""
+
+#: includes/widgets/flickr.php:118
+msgid "The maximum is 10 images."
+msgstr ""
+
+#: includes/widgets/instagram.php:25
+msgid "&raquo; Instagram"
+msgstr ""
+
+#: includes/widgets/instagram.php:28
+msgid "Displays Instagram photos."
+msgstr ""
+
+#: includes/widgets/instagram.php:118
+msgid "Instagram"
+msgstr ""
+
+#: includes/widgets/instagram.php:120
+msgid "adidas"
+msgstr ""
+
+#: includes/widgets/instagram.php:125 includes/widgets/instagram.php:258
+#: includes/widgets/instagram.php:268 includes/widgets/recent-posts.php:237
+msgid "No"
+msgstr ""
+
+#: includes/widgets/instagram.php:126 includes/widgets/instagram.php:133
+#: includes/widgets/instagram.php:259 includes/widgets/instagram.php:267
+msgid "Yes"
+msgstr ""
+
+#: includes/widgets/instagram.php:127 includes/widgets/instagram.php:275
+msgid "Rounded"
+msgstr ""
+
+#: includes/widgets/instagram.php:130
+msgid "Before"
+msgstr ""
+
+#: includes/widgets/instagram.php:139
+msgid "Follow Us"
+msgstr ""
+
+#: includes/widgets/instagram.php:150
+msgid "Search Instagram for:"
+msgstr ""
+
+#: includes/widgets/instagram.php:154
+msgid "Username:"
+msgstr ""
+
+#: includes/widgets/instagram.php:162
+msgid "Hashtag:"
+msgstr ""
+
+#: includes/widgets/instagram.php:164
+msgid "without # sign"
+msgstr ""
+
+#: includes/widgets/instagram.php:169
+msgid "Block Users"
+msgstr ""
+
+#: includes/widgets/instagram.php:171
+msgid "Enter usernames separated by commas whose images you don't want to show"
+msgstr ""
+
+#: includes/widgets/instagram.php:175
+msgid "Number Images To Show:"
+msgstr ""
+
+#: includes/widgets/instagram.php:181
+msgid "Check New Images Every:"
+msgstr ""
+
+#: includes/widgets/instagram.php:183
+msgid "hours"
+msgstr ""
+
+#: includes/widgets/instagram.php:188
+msgid "Images Style:"
+msgstr ""
+
+#: includes/widgets/instagram.php:190
+msgid "Style 1"
+msgstr ""
+
+#: includes/widgets/instagram.php:191
+msgid "Style 2"
+msgstr ""
+
+#: includes/widgets/instagram.php:192
+msgid "Style 3"
+msgstr ""
+
+#: includes/widgets/instagram.php:193
+msgid "Style 4"
+msgstr ""
+
+#: includes/widgets/instagram.php:194
+msgid "2 Columns"
+msgstr ""
+
+#: includes/widgets/instagram.php:195
+msgid "3 Columns"
+msgstr ""
+
+#: includes/widgets/instagram.php:196
+msgid "4 Columns"
+msgstr ""
+
+#: includes/widgets/instagram.php:197
+msgid "5 Columns"
+msgstr ""
+
+#: includes/widgets/instagram.php:198
+msgid "6 Columns"
+msgstr ""
+
+#: includes/widgets/instagram.php:199
+msgid "7 Columns"
+msgstr ""
+
+#: includes/widgets/instagram.php:200
+msgid "8 Columns"
+msgstr ""
+
+#: includes/widgets/instagram.php:201
+msgid "9 Columns"
+msgstr ""
+
+#: includes/widgets/instagram.php:202
+msgid "10 Columns"
+msgstr ""
+
+#: includes/widgets/instagram.php:207
+msgid "Margin:"
+msgstr ""
+
+#: includes/widgets/instagram.php:209
+msgid "Margin"
+msgstr ""
+
+#: includes/widgets/instagram.php:210
+msgid "No Margin"
+msgstr ""
+
+#: includes/widgets/instagram.php:215
+msgid "Image format"
+msgstr ""
+
+#: includes/widgets/instagram.php:217
+msgid "Square - Cropped"
+msgstr ""
+
+#: includes/widgets/instagram.php:218
+msgid "Original - No Crop"
+msgstr ""
+
+#: includes/widgets/instagram.php:220
+msgid ""
+"<strong>Square - Cropped</strong> - images in 640x640 pixels. <br/"
+"><strong>Original - No Crop</strong> - original image size."
+msgstr ""
+
+#: includes/widgets/instagram.php:224
+msgid "Order by"
+msgstr ""
+
+#: includes/widgets/instagram.php:226
+msgid "Date - Ascending"
+msgstr ""
+
+#: includes/widgets/instagram.php:227
+msgid "Date - Descending"
+msgstr ""
+
+#: includes/widgets/instagram.php:228
+msgid "Popularity - Ascending"
+msgstr ""
+
+#: includes/widgets/instagram.php:229
+msgid "Popularity - Descending"
+msgstr ""
+
+#: includes/widgets/instagram.php:230 includes/widgets/recent-posts.php:276
+msgid "Random"
+msgstr ""
+
+#: includes/widgets/instagram.php:236
+msgid "Link To"
+msgstr ""
+
+#: includes/widgets/instagram.php:238
+msgid "Instagram Image"
+msgstr ""
+
+#: includes/widgets/instagram.php:239
+msgid "Instagram Profile"
+msgstr ""
+
+#: includes/widgets/instagram.php:240
+msgid "Custom Link"
+msgstr ""
+
+#: includes/widgets/instagram.php:247
+msgid "Custom Link:"
+msgstr ""
+
+#: includes/widgets/instagram.php:249
+msgid ""
+"Use this field only if the above option is set to <strong>Custom Link</strong>"
+msgstr ""
+
+#: includes/widgets/instagram.php:254
+msgid "Header Options"
+msgstr ""
+
+#: includes/widgets/instagram.php:256
+msgid "Display Header:"
+msgstr ""
+
+#: includes/widgets/instagram.php:265
+msgid "Display Profile Picture:"
+msgstr ""
+
+#: includes/widgets/instagram.php:273
+msgid "Picture Radius:"
+msgstr ""
+
+#: includes/widgets/instagram.php:276
+msgid "Square"
+msgstr ""
+
+#: includes/widgets/instagram.php:281
+msgid "Display Name:"
+msgstr ""
+
+#: includes/widgets/instagram.php:282
+msgid "Default is username"
+msgstr ""
+
+#: includes/widgets/instagram.php:294
+msgid "Before Images"
+msgstr ""
+
+#: includes/widgets/instagram.php:295
+msgid "After Images"
+msgstr ""
+
+#: includes/widgets/instagram.php:300
+msgid "Align:"
+msgstr ""
+
+#: includes/widgets/instagram.php:312
+msgid "Button Target:"
+msgstr ""
+
+#: includes/widgets/instagram.php:317
+msgid "Same or new window"
+msgstr ""
+
+#: includes/widgets/instagram.php:321
+msgid "Button Text:"
+msgstr ""
+
+#: includes/widgets/instagram.php:323
+msgid "Leave empty for no button"
+msgstr ""
+
+#: includes/widgets/instagram.php:532
+msgid "No images found! <br> Try some other hashtag or username"
+msgstr ""
+
+#: includes/widgets/instagram.php:588
+msgid "Nothing to search for"
+msgstr ""
+
+#: includes/widgets/instagram.php:648
+msgid "No images found"
+msgstr ""
+
+#: includes/widgets/mailchimp.php:24
+msgid "&raquo; MailChimp"
+msgstr ""
+
+#: includes/widgets/mailchimp.php:27
+msgid "Displays mailchimp subscription form."
+msgstr ""
+
+#: includes/widgets/mailchimp.php:150
+msgid ""
+"Get all latest content delivered to your email a few times a month. Updates "
+"and news about all categories will send to you."
+msgstr ""
+
+#: includes/widgets/mailchimp.php:154
+msgid "Your Email"
+msgstr ""
+
+#: includes/widgets/mailchimp.php:155
+msgid "Go"
+msgstr ""
+
+#: includes/widgets/mailchimp.php:170
+msgid "MailChimp Form Action"
+msgstr ""
+
+#: includes/widgets/mailchimp.php:175
+msgid "Input Width (px)"
+msgstr ""
+
+#: includes/widgets/mailchimp.php:180
+msgid "Input Height (px)"
+msgstr ""
+
+#: includes/widgets/mailchimp.php:185
+msgid "Placeholder"
+msgstr ""
+
+#: includes/widgets/mailchimp.php:190
+msgid "Submit Text"
+msgstr ""
+
+#: includes/widgets/recent-posts.php:24
+msgid "&raquo; Recent Posts"
+msgstr ""
+
+#: includes/widgets/recent-posts.php:27
+msgid "Shows a listing of your recent or random posts."
+msgstr ""
+
+#: includes/widgets/recent-posts.php:33
+msgid "Recent Posts"
+msgstr ""
+
+#: includes/widgets/recent-posts.php:140
+msgid "0 Comments"
+msgstr ""
+
+#: includes/widgets/recent-posts.php:140
+msgid "1 Comment"
+msgstr ""
+
+#: includes/widgets/recent-posts.php:140
+msgid "% Comments"
+msgstr ""
+
+#: includes/widgets/recent-posts.php:154
+msgid "No posts found."
+msgstr ""
+
+#: includes/widgets/recent-posts.php:210
+msgid "Number"
+msgstr ""
+
+#: includes/widgets/recent-posts.php:215
+msgid "Post Type"
+msgstr ""
+
+#: includes/widgets/recent-posts.php:234
+msgid "Query By Taxonomy"
+msgstr ""
+
+#: includes/widgets/recent-posts.php:250
+msgid "Terms"
+msgstr ""
+
+#: includes/widgets/recent-posts.php:253
+msgid "Enter the term slugs to query by seperated by a \"comma\""
+msgstr ""
+
+#: includes/widgets/recent-posts.php:257
+msgid "Order"
+msgstr ""
+
+#: includes/widgets/recent-posts.php:260
+msgid "Descending"
+msgstr ""
+
+#: includes/widgets/recent-posts.php:261
+msgid "Ascending"
+msgstr ""
+
+#: includes/widgets/recent-posts.php:266
+msgid "Order By"
+msgstr ""
+
+#: includes/widgets/recent-posts.php:272
+msgid "Date"
+msgstr ""
+
+#: includes/widgets/recent-posts.php:274
+msgid "Modified"
+msgstr ""
+
+#: includes/widgets/recent-posts.php:275
+msgid "Author"
+msgstr ""
+
+#: includes/widgets/recent-posts.php:277
+msgid "Comment Count"
+msgstr ""
+
+#: includes/widgets/social.php:110
+msgid "&raquo; Social Icons"
+msgstr ""
+
+#: includes/widgets/social.php:113
+msgid "Display your social media icons."
+msgstr ""
+
+#: includes/widgets/social.php:255 includes/widgets/social.php:283
+msgid "Rotate"
+msgstr ""
+
+#: includes/widgets/social.php:269
+msgid "Style:"
+msgstr ""
+
+#: includes/widgets/social.php:273
+msgid "Colored"
+msgstr ""
+
+#: includes/widgets/social.php:274
+msgid "Simple"
+msgstr ""
+
+#: includes/widgets/social.php:279
+msgid "Transition:"
+msgstr ""
+
+#: includes/widgets/social.php:282
+msgid "Float"
+msgstr ""
+
+#: includes/widgets/social.php:284
+msgid "Zoom Out"
+msgstr ""
+
+#: includes/widgets/social.php:298
+msgid "Dimensions"
+msgstr ""
+
+#: includes/widgets/social.php:300 includes/widgets/social.php:306
+#: includes/widgets/social.php:312
+msgid "Example:"
+msgstr ""
+
+#: includes/widgets/social.php:304
+msgid "Font Size"
+msgstr ""
+
+#: includes/widgets/social.php:310
+msgid "Border Radius"
+msgstr ""
+
+#: includes/widgets/tags.php:24
+msgid "&raquo; Tags Cloud"
+msgstr ""
+
+#: includes/widgets/tags.php:27
+msgid "A cloud of your most used tags."
+msgstr ""
+
+#: includes/widgets/tags.php:63
+msgid "Tags"
+msgstr ""
+
+#: includes/widgets/tags.php:254
+msgid ""
+"The tag cloud will not be displayed since there are no taxonomies that support "
+"the tag cloud widget."
+msgstr ""
+
+#: includes/widgets/tags.php:271
+msgid "Taxonomy:"
+msgstr ""
+
+#: includes/widgets/tags.php:288
+msgid "Padding:"
+msgstr ""
+
+#: includes/widgets/tags.php:294
+msgid "Background Color:"
+msgstr ""
+
+#: includes/widgets/tags.php:299
+msgid "Background Hover Color:"
+msgstr ""
+
+#: includes/widgets/tags.php:304
+msgid "Link Color:"
+msgstr ""
+
+#: includes/widgets/tags.php:309
+msgid "Link Hover Color:"
+msgstr ""
+
+#: includes/widgets/tags.php:314
+msgid "Border Color:"
+msgstr ""
+
+#: includes/widgets/tags.php:319
+msgid "Border Hover Color:"
+msgstr ""
+
+#: includes/widgets/video.php:24
+msgid "&raquo; Video"
+msgstr ""
+
+#: includes/widgets/video.php:27
+msgid "Easily to display any type of video."
+msgstr ""
+
+#: includes/widgets/video.php:64
+msgid "You forgot to enter a video URL."
+msgstr ""
+
+#: includes/widgets/video.php:120
+msgid "Video URL "
+msgstr ""
+
+#: includes/widgets/video.php:122
+msgid ""
+"Enter in a video URL that is compatible with WordPress's built-in oEmbed "
+"feature."
+msgstr ""
+
+#: includes/widgets/video.php:126
+msgid "Description"
+msgstr ""
+
+#: ocean-extra.php:145 ocean-extra.php:154
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: ocean-extra.php:210
+msgid "Ocean Extra requires that you use OceanWP as your parent theme."
+msgstr ""
+
+#: ocean-extra.php:210
+msgid "Install OceanWP Now"
+msgstr ""
